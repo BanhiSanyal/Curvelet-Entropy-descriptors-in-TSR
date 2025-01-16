@@ -1,9 +1,11 @@
-# Real-Time-Traffic-Sign-Recognition-with-Voice-Assistance-Using-Optimized-Curvelet-Entropy-Features
+**Real-Time Traffic Sign Recognition with Voice Assistance Using Optimized Curvelet Entropy Features**
+
+
 **Authors:** Banhi Sanyal, Surja Sanyal
 
 **Description:** 
 
-This repository contains the Python and MATLAB code for the article  "**Real-Time Traffic Sign Recognition with Voice Assistance Using Optimized Curvelet Entropy Features**" under consider in the journal "**The Visual Computer", Springer**.
+This repository contains the Python and MATLAB code for the article  "**Real-Time Traffic Sign Recognition with Voice Assistance Using Optimized Curvelet Entropy Features**" under consideration in the journal "**The Visual Computer", Springer**.
 
 **Files included:**
 
@@ -36,4 +38,22 @@ Used at least in fdct_wrapping.m and ifdct_wrapping.m
 
 7. The doi of code is DOI: 10.5281/zenodo.14582560
 
-**Reproducibility**
+**Reproducibility**:
+
+
+To reproduce the results from the article:
+
+1. Download and set up the required datasets in the corresponding folders.
+2. Ensure the required MATLAB toolboxes and python  are installed.
+3. Run the  scripts with the appropriate dataset and parameters.
+
+
+**Citation**
+
+If you use this article or code in your research, please cite:
+
+Real-Time Traffic Sign Recognition with Voice Assistance Using Optimized Curvelet Entropy Features
+
+Journal = The Visual Computer (Under revision)
+#Will be updated upon acceptance
+
