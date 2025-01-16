@@ -1,3 +1,5 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14582560.svg)](https://doi.org/10.5281/zenodo.14582560
 **Real-Time Traffic Sign Recognition with Voice Assistance Using Optimized Curvelet Entropy Features**
 
 
