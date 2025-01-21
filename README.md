@@ -30,7 +30,7 @@ Used at least in fdct_wrapping.m and ifdct_wrapping.m
 
  **Datasets used:**
  
-  ** a. [GTSRB}**: Publicly available dataset, can be downloaded at [https://benchmark.ini.rub.de/gtsrb_dataset.html](https://btsd.ethz.ch/shareddata/) and cited as under
+  ** a. [GTSRB]**: Publicly available dataset, can be downloaded at [https://benchmark.ini.rub.de/gtsrb_dataset.html](https://btsd.ethz.ch/shareddata/) and cited as under
   Stallkamp, J., Schlipsing, M., Salmen, J., Igel, C. Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition. Neural networks, 32, pp. 323-332 (2012).  https://doi.org/10.1016/j.neunet.2012.02.016
   
    **b. [BTSC]**: Publicly available dataset, can be downloaded at https://btsd.ethz.ch/shareddata and cited as under       
@@ -38,7 +38,6 @@ Used at least in fdct_wrapping.m and ifdct_wrapping.m
  
    **c. [IRSDBv1.0]**  Sanyal, B., Mohapatra, R.K., Dash, R. (2020). Fully Annotated Indian Traffic Signs Database for Recognition. In Soft Computing: Theories and Applications. Advances in Intelligent Systems and Computing, vol 1154. Springer, Singapore. https://doi.org/10.1007/978-981-15-4032-5_63
 
-7. The doi of code is DOI: 10.5281/zenodo.14582560
 
 **Reproducibility**:
 
